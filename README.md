@@ -1,6 +1,6 @@
 # Smart-Robot-Navigation-with-Obstacle-Avoidance-in-Unity
 Autonomous Robot Navigation in Unity
-Overview:
+Summary:
 This project simulates a robot moving autonomously in a 3D environment created with Unity. The robot follows a predefined set of waypoints, avoids obstacles, and adapts to its surroundings using Unity’s built-in physics and AI tools. The environment can be customized by adding different terrains and obstacles.
 Key Features:
 1. Autonomous Navigation: The robot follows a path made up of waypoints and navigates autonomously.
