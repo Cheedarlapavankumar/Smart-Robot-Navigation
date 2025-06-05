@@ -85,4 +85,4 @@ How to Run:
 4. Attach the PathFollower and ObstacleAvoidance scripts to the robot object.
 5. Press Play in Unity to see the robot navigate through the scene autonomously.
 Purpose:
-This project demonstrates how AI can be used in robotics to solve navigation problems. You can customize and expand this code to fit other use cases, like self-driving cars or warehouse robots, by adjusting the terrain, obstacles, and robot movement behavior.
+This project demonstrates how AI can be used in robotics to solve navigation problems. You can customize and expand this code to fit other use cases, like self-driving cars or warehouse robots, by adjusting the terrain, obstacles, and the robot movement behavior.
