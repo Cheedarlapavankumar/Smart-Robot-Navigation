@@ -10,8 +10,7 @@ Key Features:
 Technologies Used:
 • Unity 3D Engine: To create the environment and manage physics.
 • NavMesh System: For pathfinding and navigation.
-• AI and Physics: Used for real-time interactions with the environment.
-How It Works:
+• AI and Physics: Used for real-time interactions with the environment.How It Works:
 1. Setup Waypoints for Navigation:
 The robot follows a series of waypoints in the scene to get to its destination. Each waypoint is linked together to create a path.
 C# Script: PathFollower
