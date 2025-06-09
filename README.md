@@ -7,7 +7,7 @@ Key Features:
 2. Obstacle Avoidance: The robot detects and avoids obstacles in real-time.
 3. Real-Time Environmental Interaction: It reacts to changes in the environment, such as avoiding moving obstacles.
 4. Customizable Terrain: You can easily change the terrain and add obstacles to the 3D world.
-Technologies Used:
+Technologies Used:-
 • Unity 3D Engine: To create the environment and manage physics.
 • NavMesh System: For pathfinding and navigation.
 • AI and Physics: Used for real-time interactions with the environment.How It Works:
